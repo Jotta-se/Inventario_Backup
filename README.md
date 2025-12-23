@@ -4,7 +4,7 @@
 
 ### **ANTES de formatar:**
 
-1. **Salve o script** como `inventario-apps.ps1`
+1. **Salve o script** como `inventario-apps.ps1` no seu desktop Windows
 2. **Execute como Administrador** (botão direito → "Executar como administrador")
 3. O script vai criar uma pasta `C:\Backup-Apps-[data]` com todos os arquivos
 4. **Copie essa pasta inteira** para um HD externo, pen drive ou nuvem
